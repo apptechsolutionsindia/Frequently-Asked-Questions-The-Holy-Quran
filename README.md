@@ -30,6 +30,6 @@ Just slide your finger up and down the right border of the screen (see screensho
 
 ### fast-scrolling bar
 
-###What is the privacy policy of this app? 
+### What is the privacy policy of this app? 
 
 We respect your privacy and therefore the app does not collect or transfer any data whatsoever. It needs access to permission category “Photos/Media/Files” to playback the downloaded audio recitations and it needs access to permission category “Phone – read phone status and identity” to know when to stop playing audio in case a call is received or made.
